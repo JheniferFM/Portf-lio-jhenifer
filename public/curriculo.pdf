@@ -1,0 +1,13 @@
+# Currículo - Jhenifer Meneses
+
+Este é um arquivo placeholder para o currículo.
+Substitua este arquivo pelo seu currículo real em formato PDF.
+
+Para adicionar seu currículo:
+1. Salve seu currículo como "curriculo.pdf"
+2. Substitua este arquivo na pasta "public/"
+3. O nome do arquivo deve ser exatamente "curriculo.pdf"
+
+Os botões já estão configurados para:
+- Visualizar: Abre o PDF em uma nova aba
+- Baixar: Faz o download direto do arquivo 
