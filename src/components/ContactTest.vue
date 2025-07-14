@@ -75,11 +75,11 @@
             <p class="contact-description">Visualizar ou baixar o currículo</p>
           </div>
           <div class="cv-actions">
-            <a href="/CURRICULO-JHENIFER-MENESES.pdf" target="_blank" class="contact-action cv-view">
+            <a href="/Portf-lio-jhenifer/Curriculo-Jhenifer-FM.pdf" target="_blank" class="contact-action cv-view">
               <i class="fas fa-eye"></i>
               Ver CV
             </a>
-            <a href="/CURRICULO-JHENIFER-MENESES.pdf" download class="contact-action cv-download">
+            <a href="/Portf-lio-jhenifer/Curriculo-Jhenifer-FM.pdf" download class="contact-action cv-download">
               <i class="fas fa-download"></i>
               Download
             </a>

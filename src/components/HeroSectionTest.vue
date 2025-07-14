@@ -25,10 +25,10 @@
             <button class="btn-secondary" @click="scrollToSection('contact')">
               <i class="fas fa-envelope"></i> Entre em contato
             </button>
-            <a href="/CURRICULO-JHENIFER-MENESES.pdf" target="_blank" class="btn-cv">
+            <a href="/Portf-lio-jhenifer/Curriculo-Jhenifer-FM.pdf" target="_blank" class="btn-cv">
               <i class="fas fa-eye"></i> Ver CV
             </a>
-            <a href="/CURRICULO-JHENIFER-MENESES.pdf" download class="btn-cv-download">
+            <a href="/Portf-lio-jhenifer/Curriculo-Jhenifer-FM.pdf" download class="btn-cv-download">
               <i class="fas fa-download"></i> Download CV
             </a>
           </div>
