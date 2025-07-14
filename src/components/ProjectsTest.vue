@@ -61,29 +61,29 @@ export default {
       personalProjects: [
         {
           id: 1,
-          name: 'Portfolio Pessoal',
-          type: 'Projeto de Apresentação',
-          description: 'Portfolio profissional desenvolvido com tecnologias modernas, apresentando projetos, habilidades e experiência de forma elegante e responsiva.',
-          technologies: ['Vue.js', 'CSS3', 'JavaScript', 'Vite'],
-          github: 'https://github.com/JheniferFM/portfolio-jhenifer',
+          name: 'Checklist Sustentável',
+          type: 'Projeto Web',
+          description: 'Aplicação web para gestão de tarefas sustentáveis, desenvolvida com React, jQuery, Liferay e Elasticsearch. Interface moderna e funcionalidades avançadas de busca e filtros.',
+          technologies: ['React', 'jQuery', 'Liferay', 'Elasticsearch', 'JavaScript'],
+          github: 'https://github.com/JheniferFM/checklist-sustentavel-',
           live: null
         },
         {
           id: 2,
-          name: 'Sistema de Gestão Escolar',
-          type: 'Projeto Acadêmico',
-          description: 'Solução completa para instituições educacionais, incluindo gestão de matrículas, controle de notas, frequência e comunicação integrada entre escola, alunos e responsáveis.',
-          technologies: ['PHP', 'JavaScript', 'MySQL', 'CSS3'],
-          github: 'https://github.com/JheniferFM/sistema-escolar',
-          live: null
+          name: 'Programando Futuros',
+          type: 'Plataforma Educacional',
+          description: 'Guia completo de carreiras em tecnologia desenvolvido por estudantes do CEUB. Apresenta áreas da tecnologia, trilhas de estudo estruturadas e recursos educacionais para iniciantes na área.',
+          technologies: ['HTML5', 'CSS3', 'JavaScript', 'Git'],
+          github: 'https://github.com/marccosabino/PFtrilhas',
+          live: 'https://marccosabino.github.io/PFtrilhas/index.html'
         },
         {
           id: 3,
-          name: 'Plataforma Educacional',
-          type: 'Projeto Educacional',
-          description: 'Plataforma educacional inovadora que conecta voluntários a estudantes, facilitando o acesso à educação tecnológica. Sistema completo com gestão de usuários, cursos e acompanhamento de progresso.',
-          technologies: ['Vue.js', 'PHP', 'MySQL', 'Bootstrap'],
-          github: 'https://github.com/JheniferFM/programando-futuros',
+          name: 'To-Do List',
+          type: 'Aplicação Web',
+          description: 'Sistema de gerenciamento de tarefas desenvolvido com PHP, oferecendo funcionalidades completas de CRUD, organização por categorias e interface intuitiva.',
+          technologies: ['PHP', 'MySQL', 'JavaScript', 'CSS3', 'HTML5'],
+          github: 'https://github.com/JheniferFM/teste-programador-lista-tarefas',
           live: null
         }
       ],

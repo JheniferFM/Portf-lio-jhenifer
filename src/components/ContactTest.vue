@@ -10,22 +10,7 @@
       </div>
       
       <div class="contact-grid">
-        <div class="contact-card email-card">
-          <div class="card-header">
-            <div class="icon-wrapper">
-              <i class="fas fa-envelope"></i>
-            </div>
-            <h3>Email</h3>
-          </div>
-          <div class="card-content">
-            <p class="contact-value">jhenifer.meneses@email.com</p>
-            <p class="contact-description">Envie um email direto para mim</p>
-          </div>
-          <a href="mailto:jhenifer.meneses@email.com" class="contact-action">
-            <i class="fas fa-paper-plane"></i>
-            Enviar Email
-          </a>
-        </div>
+
 
         <div class="contact-card whatsapp-card">
           <div class="card-header">
@@ -35,10 +20,10 @@
             <h3>WhatsApp</h3>
           </div>
           <div class="card-content">
-            <p class="contact-value">+55 (11) 99999-9999</p>
+            <p class="contact-value">+55 (61) 99198-7725</p>
             <p class="contact-description">Conversa rápida e direta</p>
           </div>
-          <a href="https://wa.me/5511999999999" target="_blank" class="contact-action">
+          <a href="https://wa.me/5561991987725" target="_blank" class="contact-action">
             <i class="fab fa-whatsapp"></i>
             Enviar Mensagem
           </a>
@@ -76,6 +61,29 @@
             <i class="fab fa-github"></i>
             Ver Repositórios
           </a>
+        </div>
+
+        <div class="contact-card cv-card">
+          <div class="card-header">
+            <div class="icon-wrapper">
+              <i class="fas fa-file-pdf"></i>
+            </div>
+            <h3>Currículo</h3>
+          </div>
+          <div class="card-content">
+            <p class="contact-value">Jhenifer Meneses</p>
+            <p class="contact-description">Visualizar ou baixar o currículo</p>
+          </div>
+          <div class="cv-actions">
+            <a href="/CURRICULO-JHENIFER-MENESES.pdf" target="_blank" class="contact-action cv-view">
+              <i class="fas fa-eye"></i>
+              Ver CV
+            </a>
+            <a href="/CURRICULO-JHENIFER-MENESES.pdf" download class="contact-action cv-download">
+              <i class="fas fa-download"></i>
+              Download
+            </a>
+          </div>
         </div>
       </div>
 
@@ -232,6 +240,60 @@
 
 .github-card .icon-wrapper {
   background: linear-gradient(135deg, #333, #24292e);
+}
+
+.cv-card .icon-wrapper {
+  background: linear-gradient(135deg, #dc3545, #c82333);
+}
+
+.cv-actions {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.cv-view {
+  background: linear-gradient(135deg, #28a745, #20c997);
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+}
+
+.cv-view:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(40, 167, 69, 0.3);
+  color: white;
+  text-decoration: none;
+}
+
+.cv-download {
+  background: linear-gradient(135deg, #17a2b8, #138496);
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+}
+
+.cv-download:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(23, 162, 184, 0.3);
+  color: white;
+  text-decoration: none;
 }
 
 .contact-card:hover .icon-wrapper {

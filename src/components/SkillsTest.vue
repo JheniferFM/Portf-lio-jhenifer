@@ -81,6 +81,13 @@
           <span>Vue.js</span>
         </div>
         
+        <div class="skill-item react">
+          <div class="skill-logo">
+            <i class="fab fa-react"></i>
+          </div>
+          <span>React</span>
+        </div>
+        
         <div class="skill-item jquery">
           <div class="skill-logo">
             <i class="fab fa-js"></i>
@@ -327,6 +334,18 @@ export default {
 
 .skill-item.vuejs .skill-logo i {
   color: #ffffff;
+}
+
+.skill-item.react {
+  color: #61dafb;
+}
+
+.skill-item.react .skill-logo {
+  background: #61dafb;
+}
+
+.skill-item.react .skill-logo i {
+  color: #000000;
 }
 
 .skill-item.jquery {
