@@ -65,7 +65,7 @@ export default {
           type: 'Projeto de Apresentação',
           description: 'Portfolio profissional desenvolvido com tecnologias modernas, apresentando projetos, habilidades e experiência de forma elegante e responsiva.',
           technologies: ['Vue.js', 'CSS3', 'JavaScript', 'Vite'],
-          github: 'https://github.com/jheni/portfolio-jhenifer',
+          github: 'https://github.com/JheniferFM/portfolio-jhenifer',
           live: null
         },
         {
@@ -74,7 +74,7 @@ export default {
           type: 'Projeto Acadêmico',
           description: 'Solução completa para instituições educacionais, incluindo gestão de matrículas, controle de notas, frequência e comunicação integrada entre escola, alunos e responsáveis.',
           technologies: ['PHP', 'JavaScript', 'MySQL', 'CSS3'],
-          github: 'https://github.com/jheni/sistema-escolar',
+          github: 'https://github.com/JheniferFM/sistema-escolar',
           live: null
         },
         {
@@ -83,7 +83,7 @@ export default {
           type: 'Projeto Educacional',
           description: 'Plataforma educacional inovadora que conecta voluntários a estudantes, facilitando o acesso à educação tecnológica. Sistema completo com gestão de usuários, cursos e acompanhamento de progresso.',
           technologies: ['Vue.js', 'PHP', 'MySQL', 'Bootstrap'],
-          github: 'https://github.com/jheni/programando-futuros',
+          github: 'https://github.com/JheniferFM/programando-futuros',
           live: null
         }
       ],

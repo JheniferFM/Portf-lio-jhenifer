@@ -15,14 +15,11 @@
     
     <div class="nav-right">
       <div class="social-links">
-        <a href="https://github.com/jheni" target="_blank" class="social-link" title="GitHub">
+        <a href="https://github.com/JheniferFM" target="_blank" class="social-link" title="GitHub">
           <i class="fab fa-github"></i>
         </a>
-        <a href="https://www.linkedin.com/in/jhenifer-meneses" target="_blank" class="social-link" title="LinkedIn">
+        <a href="https://www.linkedin.com/in/jhenifer-meneses-98293b300/" target="_blank" class="social-link" title="LinkedIn">
           <i class="fab fa-linkedin"></i>
-        </a>
-        <a href="https://instagram.com/jhenifer" target="_blank" class="social-link" title="Instagram">
-          <i class="fab fa-instagram"></i>
         </a>
       </div>
       <button @click="$emit('toggle-theme')" class="theme-toggle">

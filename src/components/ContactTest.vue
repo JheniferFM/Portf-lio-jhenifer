@@ -55,7 +55,7 @@
             <p class="contact-value">jhenifer-meneses</p>
             <p class="contact-description">Conecte-se profissionalmente</p>
           </div>
-          <a href="https://linkedin.com/in/jhenifer-meneses" target="_blank" class="contact-action">
+                      <a href="https://linkedin.com/in/jhenifer-meneses-98293b300/" target="_blank" class="contact-action">
             <i class="fab fa-linkedin"></i>
             Ver Perfil
           </a>
@@ -69,10 +69,10 @@
             <h3>GitHub</h3>
           </div>
           <div class="card-content">
-            <p class="contact-value">jhenifer-meneses</p>
+            <p class="contact-value">JheniferFM</p>
             <p class="contact-description">Veja meus projetos e contribuições</p>
           </div>
-          <a href="https://github.com/jhenifer-meneses" target="_blank" class="contact-action">
+          <a href="https://github.com/JheniferFM" target="_blank" class="contact-action">
             <i class="fab fa-github"></i>
             Ver Repositórios
           </a>
