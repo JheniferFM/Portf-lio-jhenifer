@@ -25,10 +25,10 @@
             <button class="btn-secondary" @click="scrollToSection('contact')">
               <i class="fas fa-envelope"></i> Entre em contato
             </button>
-            <a href="/Portf-lio-jhenifer/Curriculo-Jhenifer-FM.pdf" target="_blank" class="btn-cv">
+            <a href="/Curriculo-Jhenifer-FM.pdf" target="_blank" class="btn-cv">
               <i class="fas fa-eye"></i> Ver CV
             </a>
-            <a href="/Portf-lio-jhenifer/Curriculo-Jhenifer-FM.pdf" download class="btn-cv-download">
+            <a href="/Curriculo-Jhenifer-FM.pdf" download class="btn-cv-download">
               <i class="fas fa-download"></i> Download CV
             </a>
           </div>
@@ -36,7 +36,7 @@
         <div class="hero-image">
           <div class="profile-container" @mouseenter="showTooltip = true" @mouseleave="showTooltip = false">
             <div class="profile-shadow-animated"></div>
-            <img src="/Portf-lio-jhenifer/foto.jpg" alt="Jhenifer Meneses" class="profile-photo" />
+            <img src="/foto.jpg" alt="Jhenifer Meneses" class="profile-photo" />
             <div v-if="showTooltip" class="profile-tooltip">Olá! Eu sou a Jhenifer 👋</div>
           </div>
         </div>
