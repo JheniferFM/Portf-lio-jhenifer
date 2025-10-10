@@ -36,7 +36,7 @@
         <div class="hero-image">
           <div class="profile-container" @mouseenter="showTooltip = true" @mouseleave="showTooltip = false">
             <div class="profile-shadow-animated"></div>
-            <img src="/Portf-lio-jhenifer/foto.jpg" alt="Jhenifer Meneses" class="profile-photo" />
+            <img src="/foto.jpg" alt="Jhenifer Meneses" class="profile-photo" />
             <div v-if="showTooltip" class="profile-tooltip">Olá! Eu sou a Jhenifer 👋</div>
           </div>
         </div>
